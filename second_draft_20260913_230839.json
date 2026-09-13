@@ -1,0 +1,95 @@
+{
+  "timestamp": "20260913_230839",
+  "cast_names": [
+    "Jack",
+    "Young",
+    "Scribe",
+    "Scholar1",
+    "King Michael",
+    "Mother",
+    "Blacksmith",
+    "Bones",
+    "Vex",
+    "Halo",
+    "Ash",
+    "Queen June",
+    "Snake",
+    "Narrator"
+  ],
+  "hits_source": "fallback:chunked_source",
+  "drafts": [
+    {
+      "title": "Revelation and Resistance",
+      "reasoning": "The source text involves Jack and Laura, highlighting their roles in distributing a message to the people. The context is post-disaster, with the focus on the aftermath of a conflict that has led to the destruction of key infrastructure. Jack is named as the 'I' in the source, but the unnamed narrator describes the events. The dramatic conflict revolves around the dissemination of revolutionary ideas and the establishment of a new order.",
+      "scene": "The desert landscape is a wasteland of rubble and scattered debris, the remnants of a gas station now reduced to smoldering embers. The wind howls through the ruins, carrying the echoes of distant explosions. Jack stands amidst the chaos, his cowboy hat in hand as he adjusts it. Laura, his co-conspirator, stands beside him, surveying the destruction with a grim resolve. The bluegrass music plays softly in the background, a stark contrast to the desolation around them.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "What is the latest news?",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "June has a message for her followers. We need to get it out there, Jack.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "Jigga is what I'll be saying in Jigga Bigga. We should be getting to Zigga Bigga.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "And now we have a special message. June, our fearless queen has a message for her followers. We need to get our message out to the people, June.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "This is unacceptable, my queen. You're a queen, not a fucking whore.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "What is the latest news? Constantly pumping up crap. This is unacceptable, my queen. You're a queen, not a fucking whore.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "What is the latest news?",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "We need to show them there's another way.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 8,
+      "speakers": [
+        "Jack",
+        "Laura",
+        "Narrator"
+      ]
+    }
+  ]
+}
